@@ -1,6 +1,6 @@
 body{
 
-    background-image: url(../imagens/fundoimg.png);
+    background-image: url(/imagens/fundoimg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
